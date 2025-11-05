@@ -30,8 +30,8 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone <ссылка_на_репозиторий>
-   cd dadata_test_task
+   git clone https://github.com/AndreyZakhvatoshin/dadata.git
+   cd dadata
    ```
 
 2. Запустите установочный скрипт:
